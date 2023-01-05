@@ -4,3 +4,11 @@ body {
   background-position: top center;
   background-size: cover;
 }
+
+#container {
+  width: 360px;
+  height: 712px;
+  border: 1px solid red;
+  margin-right: auto;
+  margin-left: auto;
+}
